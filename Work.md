@@ -7,3 +7,9 @@ or making small cuts so the the paper can join together to become more stable.
 # Plan
 I plan to design something with a combination of both. Since I have limited paper, I will cut them into thin pieces and make cuts at the top of the paper, 
 so other paper can join them to make the tower taller.
+# Samples and Critiques
+
+!(Weixin Image_20240124212548.jpg)
+The first sample turned to be stable, but not high enough. There is a lot of paper that could be saved to make a second layer. The papers could be used in a more
+efficient way so the tower can be taller.
+!()
