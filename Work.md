@@ -9,7 +9,9 @@ I plan to design something with a combination of both. Since I have limited pape
 so other paper can join them to make the tower taller.
 # Samples and Critiques
 
-!(Weixin Image_20240124212548.jpg)
+Weixin Image_20240124212548.jpg
 The first sample turned to be stable, but not high enough. There is a lot of paper that could be saved to make a second layer. The papers could be used in a more
 efficient way so the tower can be taller.
-!()
+Weixin Image_20240124212555.jpg
+The second sample is fairly stable, I change the base a little by folding it more times so it is more stable than one fold. The paper that is added on is smaller 
+which makes it unstablle, but provides more height. The cuts that are made on the paper is more even so the paper gets a good stand on each other.
